@@ -1,4 +1,6 @@
-## BigTreeTech Octopus
+## Dixie's Regolith Printer
 
-### review
-　You can find a complete review with detailed features of our electronics in [Spanish](https://3dwork.io/btt-octopus) and [English](https://3dwork.io/en/btt-octopus/) on [3dwork.io](https://3dwork.io/).
+### Overview
+　Regolith printer V1 uses a Bigtreetech Octopus V1.1 main board running Marlin firmware.
+
+### Configured by Julian Castro
