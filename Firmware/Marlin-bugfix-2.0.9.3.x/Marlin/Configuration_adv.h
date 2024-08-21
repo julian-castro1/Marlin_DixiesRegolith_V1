@@ -694,10 +694,10 @@
 
 // Employ an external closed loop controller. Override pins here if needed.
 //#define EXTERNAL_CLOSED_LOOP_CONTROLLER
-//#if ENABLED(EXTERNAL_CLOSED_LOOP_CONTROLLER)
+#if ENABLED(EXTERNAL_CLOSED_LOOP_CONTROLLER)
   //#define CLOSED_LOOP_ENABLE_PIN        -1
   //#define CLOSED_LOOP_MOVE_COMPLETE_PIN -1
-//#endif
+#endif
 
 /**
  * Dual X Carriage
